@@ -1,5 +1,6 @@
 /*
 *	Ams framework français Javascript
+* modification par P POmmier le 21 décembre 2012
 */
 
 /**
